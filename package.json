@@ -1,0 +1,25 @@
+{
+  "name": "aoc25",
+  "version": "1.0.0",
+  "description": "<img src='https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXc4ZmU0amk1MXVwY2k4Z3h0NDRwYmI0eGhjNHo0bXdyMXg0eTE5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6EiPNT9dLDrU7ZQuF/giphy-downsized.gif'/>",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dartoxian/aoc_25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dartoxian/aoc_25/issues"
+  },
+  "homepage": "https://github.com/Dartoxian/aoc_25#readme",
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "tsc": "^2.0.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
